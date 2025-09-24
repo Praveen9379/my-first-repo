@@ -1,0 +1,3 @@
+Name: PRAVEEN KUMAR KOTTALA
+course: BSc. Artificial Intelligence
+GitHub is a version control tool.
