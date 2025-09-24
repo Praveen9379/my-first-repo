@@ -1,0 +1,7 @@
+class sumtwo{
+public static void main(String[] args){
+int x=3,y=5;
+int z=x+y;
+System.out.printf("sum: %d\n", z);
+System.out.println("sum:"+z);
+}}
